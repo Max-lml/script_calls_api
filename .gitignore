@@ -1,2 +1,6 @@
 calls_raw.json
 filtered_calls.json
+
+.venv/
+__pycache__/
+*.log
